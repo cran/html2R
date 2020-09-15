@@ -1,0 +1,17 @@
+b5b2bd5392a2d27890d871450b4154e3 *DESCRIPTION
+f6f8b10e70515c1c0330151cfcece4df *LICENSE.note
+bb8c7bad54e92039c786c77693877ce1 *NAMESPACE
+45321f840a500e2a0a5dc83d231a28b7 *NEWS.md
+a9797820690b6a2f9f4041be4ca90ee8 *R/parse_html.R
+d8df452f710f5235fd6b5058d0dac312 *R/shinyApp.R
+2f3618e2a6a2d34f6896ebfe54439fc5 *R/zzz.R
+c0361133290643144f47ce535b7b3ac8 *README.md
+9dc45cec6b280d8a1b07a85fc519da0d *inst/example.html
+a6a771b588fb74fe5c4674578ff698b7 *inst/www/himalaya.js
+ee275c17c0a58901b12435c0db694d99 *inst/www/html2R.css
+3dcd583de0361301f3ab48d5810f25e6 *inst/www/html2R.js
+e47bfc7a0414aa5040e865f835c569ad *inst/www/jquery-confirm.min.css
+1d6ae7e6b82dd230033595eac215ac28 *inst/www/jquery-confirm.min.js
+9ac5ec44d278e5b6823c2426b5568297 *inst/www/particles.css
+639b88b81f1623fcf21e82033584a65a *inst/www/purify.min.js
+57afb77505f353b40ecbb70cd244ba6b *man/html2R.Rd
